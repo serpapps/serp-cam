@@ -2,7 +2,11 @@
 
 Record videos, screenshares, voice recordings, screenshots and other tools for faster, more productive communication.
 
+
+
 ## Features
+
+<img width="1187" height="731" alt="image" src="https://github.com/user-attachments/assets/81f87709-5f8b-4427-9a21-7063bf9326e0" />
 
 - Auto-generated titles, summaries, clickable chapters, and transcriptions for every recording. 
 - AI features that actually save time instead of creating more work.
@@ -13,14 +17,50 @@ Record videos, screenshares, voice recordings, screenshots and other tools for f
 - Commercial usage
 - Unlimited local recordings
 - Export to MP4 or GIF
+- Everything from Desktop License
+- Unlimited cloud storage & unlimited shareable links
+- Automatic AI title, transcription, summary, and chapters
+- Connect a custom domain, e.g. cap.yourdomain.com
+- Shared team spaces
+
+<img width="1164" height="743" alt="image" src="https://github.com/user-attachments/assets/321235e8-7344-4439-84d6-4189ded2f3ac" />
+
 
 ### Instant Mode:
 - Share your screen right away with a simple link—no waiting, just record and share in seconds. Record up to 5-minute shareable links for free, perfect for quick demos and explanations. Includes built-in thread commenting for easy collaboration.
 
 ### Studio Mode
+
+<img width="1620" height="885" alt="image" src="https://github.com/user-attachments/assets/0e1885a8-10f4-45b1-9324-11b8228f6e43" />
+
+
 - Available completely free for personal use! Records at top quality up to 4K. Captures both your screen and webcam separately so you can edit them later, giving you professional-level production control.
 
 <img width="1036" height="612" alt="image" src="https://github.com/user-attachments/assets/28e16919-4c77-4dee-ba2d-25853f08a0d0" />
+
+## More Good
+
+## 1 Easy to Use
+Start recording with just a few clicks. No complex setup needed.
+
+## 2 High-Quality Recording
+Capture crystal-clear footage with smooth frame rates and synchronized audio.
+
+## 3 Cross-Platform Support
+Whether you need to screen record on Mac or Windows, Cap works perfectly on both platforms.
+
+## 4 Completely Free w/ you SERP Cloud account
+Enjoy professional-grade screen recording without any cost or subscription fees. Try our free screen recorder today.
+
+## 5 Unlimited Cloud Storage
+Store and share your recordings effortlessly with unlimited cloud storage.
+
+## 6 Advanced Team Collaboration
+Boost team productivity with features designed for efficient collaboration and easy sharing.
+
+## 7 Professional Software
+Cap is professional-grade screen recording software that's both powerful and easy to use.
+
 
 
 ## FAQ
